@@ -6,9 +6,9 @@
 
 🕹 Current side project activity ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/QuantumClockwork/MiniGames)
 
-- Language proficency
-  - C#
-  - C++
-  - Python
-  - PowerShell
+- ### Language proficency
+  - ***C#***
+  - ***C++***
+  - ***Python***
+  - ***PowerShell***
 
