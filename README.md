@@ -1,18 +1,14 @@
-### Hi there 👋 
+# Hiya! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+*BCS student at [Malmö University](https://mau.se/)*
 
-<!--
-**QuantumClockwork/QuantumClockwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Part time worker at Advertising Agency [Kulturreklam](https://www.kulturreklam.se/)*
 
-Here are some ideas to get you started:
+🕹 Current side project activity ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/QuantumClockwork/MiniGames)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Language proficency
+  - C#
+  - C++
+  - Python
+  - PowerShell
+
