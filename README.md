@@ -1,4 +1,6 @@
-### Hi there 👋${your.username}.${your.repo.id}
+### Hi there 👋 
+
+${your.username}.${your.repo.id}
 
 <!--
 **QuantumClockwork/QuantumClockwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
