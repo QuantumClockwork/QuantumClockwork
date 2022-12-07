@@ -1,4 +1,4 @@
-# Hiya! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+# Hiya!
 
 *BCS student at [Malmö University](https://mau.se/)*
 
