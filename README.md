@@ -9,8 +9,8 @@
 
 - ### Language proficency
   - ***C#***
-  - ***C++***
   - ***CSS***
+  - ***C++***
   - ***Python***
   - ***PowerShell***
 
