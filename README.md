@@ -10,5 +10,3 @@
   - ***C++***
   - ***Python***
   - ***PowerShell***
-
-**Mood right now:** [Black Sabbath - War Pigs](https://open.spotify.com/track/0W35nxtHtFlseSojmygEsf?si=f938f2dc628d4763)
