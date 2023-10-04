@@ -6,7 +6,7 @@
 
 - ### Language proficency
   - ***C#***
-  - ***CSS***
   - ***C++***
+  - ***CSS***
   - ***Python***
   - ***PowerShell***
