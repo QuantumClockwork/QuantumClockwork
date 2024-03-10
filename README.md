@@ -8,5 +8,7 @@
   - ***C#***
   - ***C++***
   - ***CSS***
-  - ***Python***
-  - ***PowerShell***
+  - ***HTML***
+  - ***JavaScript***
+
+*portfolio coming soon!*
