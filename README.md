@@ -4,11 +4,11 @@
 
 *Part time worker at Advertising Agency [Kulturreklam](https://www.kulturreklam.se/) and Study help at [Allakando](https://www.allakando.se/)*
 
+Slowly learning neovim and javascript
+
 - ### Language proficency
   - ***C#***
   - ***C++***
   - ***CSS***
-  - ***HTML***
-  - ***JavaScript***
 
 *portfolio coming soon!*
